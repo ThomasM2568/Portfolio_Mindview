@@ -3,5 +3,5 @@
 #### Trace 1 : Configuration d'access list sur les routeurs Cisco
 
 
-``![access list](access_list.png)``
+``![access list](./access_list.png)``
 
