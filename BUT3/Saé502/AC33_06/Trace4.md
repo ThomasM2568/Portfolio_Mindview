@@ -9,7 +9,7 @@ Avec des VLAN, l'accès d'une zone à l'autre est impossible ce qui limite l'acc
 Par exemple, cela évite qu'une personne de l'administration accède à des données de recherches.
 <br/>
 Ainsi j'ai créé 8 VLANs :
-<br/>
+
 | Numéro de VLAN | Objectif |
 |----------------|----------|
 | 1 | Liaisons Pare-feu/Routeurs |
