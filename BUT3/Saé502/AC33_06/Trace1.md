@@ -2,7 +2,7 @@
 ###  AC33.06 : Sécuriser l’environnement numérique d’une application
 #### Trace 1 : Configuration d'access list sur les routeurs Cisco
 
-<imgsrc="access_list.png"
+<img src="access_list.png"
   alt="Access list" />
 
 
