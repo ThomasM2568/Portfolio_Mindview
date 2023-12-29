@@ -1,6 +1,6 @@
 # SAÉ 5.02 : Piloter un projet informatique
 ###  AC33.06 : Sécuriser l’environnement numérique d’une application
-#### Trace 1 : Configuration d'access list sur les routeurs Cisco
+#### Trace 2.X : Pare-feu
 
 <br/>
 Le but d'un pare-feu est d'analyser le trafic réseau entrant et sortant en fonction de règles que l'on configure. Cela se fait en se basant sur des critères tels que les adresses IP source et destination ou le type de protocole par exemple.
