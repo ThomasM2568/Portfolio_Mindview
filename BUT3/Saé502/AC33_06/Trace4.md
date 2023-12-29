@@ -6,7 +6,7 @@ Les VLANs (Virtual Local Area Network) sont des groupes permettant ainsi de segm
 <br/>
 Afin d’améliorer la sécurité et faciliter l’administration du réseau j'ai créé plusieurs VLANs. 
 Avec des VLAN, l'accès d'une zone à l'autre est impossible ce qui limite l'accès aux données sensibles au personnel autorisé. 
-Par exemple, cela évite qu'une personne de l'administration accède à des données de recherches.
+Par exemple, cela évite qu'une personne de l'administration accède à des données de recherches.<br/>
 <br/>
 <br/>
 Ainsi j'ai créé 8 VLANs :
