@@ -8,6 +8,7 @@ Afin d’améliorer la sécurité et faciliter l’administration du réseau j'a
 Avec des VLAN, l'accès d'une zone à l'autre est impossible ce qui limite l'accès aux données sensibles au personnel autorisé. 
 Par exemple, cela évite qu'une personne de l'administration accède à des données de recherches.
 <br/>
+<br/>
 Ainsi j'ai créé 8 VLANs :
 
 | Numéro de VLAN | Objectif |
