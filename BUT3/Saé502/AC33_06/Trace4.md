@@ -10,7 +10,7 @@ Par exemple, cela évite qu'une personne de l'administration accède à des donn
 
 <br/>
 Ainsi j'ai créé 8 VLANs :<br/>
-<br/>
+
 | Numéro de VLAN | Objectif |
 |----------------|----------|
 | 1 | Liaisons Pare-feu/Routeurs |
