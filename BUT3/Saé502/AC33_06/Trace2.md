@@ -19,6 +19,11 @@ J'ai défini plusieurs sections qui respectent les mêmes conventions de nommage
 | Net_vers_Dist | Réseaux internes | Réseaux distants |
 | Block_all | Tous les réseaux | Tous les réseaux |
 
+Il faut savoir que le fonctionnement des règles est hiérarchique, c'est-à-dire que les règles sont vérifiées une par une. La première qui correspond est utilisée.
+Il est donc important de ne pas oublier de préciser une règle pour bloquer tout le trafic qui n'a pas été explicitement autorisé.
+
+
+La configuration de règles de pare-feu (Stormshield) montre que je suis capable sécuriser les environnements numériques. En définissant des règles, je suis capable de restreindre l'accès au réseau et donc de limiter de potentiels accès indésirables. La configuration ci-dessous démontre ma maîtrise de la notion.
 <br/>
 
 
