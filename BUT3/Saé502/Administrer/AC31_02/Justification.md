@@ -33,6 +33,9 @@ Le but était de définir l'ensemble des fonctionnalités à mettre en place.
 Etre capable de réaliser un schéma complet intégrant des serveurs, des services, de la sécurité et de la haute disponibilité démontre ma capacité à réaliser de la documentation technique d'un projet.
 <br/>
 
+### Maîtrise de l'apprentissage critique
+<br/>
+
 Pour justifier ma compétence dans l'AC31.02, je présente trois traces. 
 
 Tout d'abord, des captures d'écran de guides d'utilisation détaillés, illustrant ma capacité à documenter des scripts de manière accessible. 
