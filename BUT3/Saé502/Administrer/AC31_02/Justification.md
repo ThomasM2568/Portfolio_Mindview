@@ -42,4 +42,4 @@ Tout d'abord, des captures d'écran de guides d'utilisation détaillés, illustr
 Ensuite, un rapport de Saé avec Arnaud Kastner, Alexandre Berot-Armand et Kyllian Cuevas qui synthétise le projet, démontrant ma compréhension et ma maîtrise des configurations réalisées. 
 Enfin, un schéma de l'architecture réseau qui met en avant les fonctionnalités et spécificités du projet, démontrant ma capacité à documenter techniquement de manière concise et complète.
 
-Ces trois traces prouvent de ma maîtrise de cet apprentissage critique.
+Ces trois traces prouvent ma maîtrise de cet apprentissage critique.
