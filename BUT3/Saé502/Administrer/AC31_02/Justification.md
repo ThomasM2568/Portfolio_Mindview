@@ -36,7 +36,7 @@ Etre capable de réaliser un schéma complet intégrant des serveurs, des servic
 ### Maîtrise de l'apprentissage critique
 <br/>
 
-Pour justifier ma compétence dans l'AC31.02, je présente trois traces. 
+Pour justifier ma compétence dans l'AC31.02, j'ai présenté trois traces. 
 
 Tout d'abord, des captures d'écran de guides d'utilisation détaillés, illustrant ma capacité à documenter des scripts de manière accessible. 
 Ensuite, un rapport de Saé avec Arnaud Kastner, Alexandre Berot-Armand et Kyllian Cuevas qui synthétise le projet, démontrant ma compréhension et ma maîtrise des configurations réalisées. 
