@@ -5,9 +5,9 @@
 L'objectif de cette Saé est de définir les exigences d'un réseau sécurisé d'hôpital en termes de sécurité et de réaliser les tâches de configurations liées à la sécurisation du système informatique. 
 Compte tenu des récentes attaques cyberet de la sensibilité des données médicales, il est essentiel de mettre en place une infrastructure informatique robuste et sécurisée. Le projet consistera à créer une architecture
 réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir une connexion VPN avec un autre hôpital, et à documenter l'ensemble du système.
-<br/>
 
-Pour justifier que je suis compétent pour l'AC31.02, j'ai choisi de présenter :
+
+<br/>Pour justifier que je suis compétent pour l'AC31.02, j'ai choisi de présenter :
 - la capture d'écran de plusieurs guides d'utilisation que j'ai rédigés.
 - le rapport de Saé que j'ai rédigé avec Arnaud Kastner, Alexandre Berot-Armand et Kyllian Cuevas.
 -  le schéma de l'architecture réseau du projet.
