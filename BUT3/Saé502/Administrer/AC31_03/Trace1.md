@@ -6,7 +6,7 @@ L'objectif de cette Saé est de définir les exigences d'un réseau sécurisé d
 Compte tenu des récentes attaques cyberet de la sensibilité des données médicales, il est essentiel de mettre en place une infrastructure informatique robuste et sécurisée. Le projet consistera à créer une architecture
 réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir une connexion VPN avec un autre hôpital, et à documenter l'ensemble du système.
 
-#### Trace 1 : Rédaction de guides d'utilisations
+#### Trace 1 : Installation de Switch et d'un firewall
 <br/>
 
 Pour justifier que je suis compétent pour l'AC31.03, j'ai choisi de présenter la photographie de l'installation de 3 switch Cisco Catalyst 3750 v2 series et d'un Pare-feu Stormshield SN210W.
