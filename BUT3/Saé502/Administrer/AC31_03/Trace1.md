@@ -13,4 +13,6 @@ Pour justifier que je suis compétent pour l'AC31.03, j'ai choisi de présenter 
 
 Pour permettre une meilleure gestion des branchements réseaux, j'ai choisi une couleur de câble par lien. Chaque lien entre switch utilisait le même port pour également permettre une meilleure gestion des branchements.
 Cette approche méthodique permet une meilleure organisation et permet d'être plus effiface lors de tests de bon fonctionnement. Cela améliore également la lisibilité de la maquette.
+
+J'ai positionnés les switch les uns sur les autre selon leurs numéros (1, 2 et 3) pour optimiser l'espace et permettre d'avoir plus de place pour les branchements.
 <br/>
