@@ -17,13 +17,22 @@ Vous retrouverez les liens de ces documents dans la section liens en bas de cett
 #### Trace 1 : Capture d'écran de l'outil de Gestion de Projet (Trello)
 <br/>
 
+L'utilisation de Trello démontre ma capacité à communiquer de manière organiséee avec tous les acteurs du projet, que ce soit des camarades ou des professeurs.
+Cet outil permet une meilleure organisation et compréhension des différentes étapes à réaliser, mais également les responsabilités de chacun.
+Les différentes sections m'ont permis de facilement mettre en avant ce qui était à faire, ce qui était mis en place et ce qui était fonctionnel et validé.
+Cela permet également à des collaborateurs de mieux visualiser le travail de chacun.
 
 <br/>
 
 #### Trace 2 : Support de présentation du sprint du 23/10/2023
 <br/>
+Les professeurs nous ont demandés de leur faire un point de ce qui avait été mis en place à la moitié du projet.
 
+Ce document montre les services et fonctionnalités déjà mis en place, qui ont été testées et validés comme fonctionnelles.
+Cela atteste de ma capacité à mettre en place des éléments techniques réalisés et à les présenter de manière synthétique.
 
+Dans ce support, je présente les activités prévues dans les jours à venir, cela montre ma capacité à planifier et ma vision à long terme du projet.
+Cela permet aux collaborateurs d'avoir une meilleure vision d'ensemble du projet.
 <br/>
 
 #### Trace 3 : Vidéo de démonstration d'une fonctionnalité mise en place
@@ -45,14 +54,16 @@ Cette vidéo démontre ma capacité à présenter une fonctionnalité technique 
 
 Pour justifier ma compétence dans l'AC31.01, j'ai présenté trois traces. 
 
-Mon approche de la conception de la maquette montre ma capacité à documenter de manière détaillée des fonctionnalités mises en places.
+La première trace est une capture d'écran de l'outil de Gestion de Projet (Trello), démontrant ma capacité à communiquer de manière organisée avec les acteurs du projet, que ce soient des collègues ou des professeurs.
 
-De plus je suis capable de mettre en place des services complexes et de la haute disponibilité répondant aux besoins d'un environnement hospitalier.
+La deuxième trace est un support de présentation du sprint du 23/10/2023, permettant de faire un premier point sur le projet. Ce document met en avant les services et fonctionnalités déjà mis en place, testés et validés, démontrant ma compétence à présenter de manière synthétique les avancées techniques du projet. De plus, il prévoit les activités futures, soulignant ma capacité à planifier et à avoir une vision à long terme du projet.
 
+Enfin, la troisième trace est une vidéo de démonstration présentant la fonctionnalité technique du VRRP (keepalived) sur les brokers MQTT avec un SLB (Haproxy). Cette vidéo montre ma capacité à expliquer de manière claire et accessible des aspects techniques complexes.
+
+En résumé, ces trois traces illustrent ma compétence de communication avec les acteurs du projet, de présentation synthétique des avancées techniques, la planification, et de démonstration de fonctionnalités techniques complexes.
 Ces trois traces prouvent ma maîtrise de cet apprentissage critique.
 
 
 #### Liens :
-[Support de présentation](https://www.canva.com/design/DAFycERss7U/IgD0LpFksewwwncMy_cW-g/view?utm_content=DAFycERss7U&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-<br/> [Rapport de Saé](https://docs.google.com/document/d/1ceTCKuImtVdPNZooNXrqD9qbkR_H65VHRI9zgdcTq98/edit?usp=sharing)
+[Support de présentation](https://www.canva.com/design/DAFx_8suQGM/piskVzHGZA5p8z6hhmn7uw/view?utm_content=DAFx_8suQGM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <br/> [Vidéo de démonstration](https://drive.google.com/file/d/1Bcb7qs9683V1hOu-9UW2KHCeML8JWAD2/view)
