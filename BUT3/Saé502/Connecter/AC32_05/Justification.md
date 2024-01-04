@@ -8,9 +8,10 @@ réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir
 
 
 <br/>Pour justifier que je suis compétent pour l'AC31.02, j'ai choisi de présenter :
-- la capture d'écran de plusieurs guides d'utilisation que j'ai rédigés.
-- le rapport de Saé que j'ai rédigé avec Arnaud Kastner, Alexandre Berot-Armand et Kyllian Cuevas.
--  le schéma de l'architecture réseau du projet.
+- la rédaction du cahier des charges du projet.
+- une partie du rapport axé sur les spécifications techniques du projet.
+- le modèle conceptuel de données
+- l'outil de gestion de projet (Trello).
 
 #### Trace 1 : Partage de documentation technique en Anglais
 <br/>
