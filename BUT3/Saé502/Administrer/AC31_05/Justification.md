@@ -52,7 +52,7 @@ Cette vidéo démontre ma capacité à présenter une fonctionnalité technique 
 ### Maîtrise de l'apprentissage critique
 <br/>
 
-Pour justifier ma compétence dans l'AC31.01, j'ai présenté trois traces. 
+Pour justifier ma compétence dans l'AC31.05, j'ai présenté trois traces. 
 
 La première trace est une capture d'écran de l'outil de Gestion de Projet (Trello), démontrant ma capacité à communiquer de manière organisée avec les acteurs du projet, que ce soient des collègues ou des professeurs.
 
