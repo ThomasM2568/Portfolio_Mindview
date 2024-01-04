@@ -48,7 +48,7 @@ Ma capacité à expliquer l'intérêt de ce logiciel démontre ma capacité à g
 ### Maîtrise de l'apprentissage critique
 <br/>
 
-Pour justifier ma compétence dans l'AC31.01, j'ai présenté trois traces. 
+Pour justifier ma compétence dans l'AC31.06, j'ai présenté trois traces. 
 
 La première trace est une capture d'écran de l'outil Trello. Elle met en avant ma capacité à communiquer de manière organisée en facilitant la coordination des tâches.
 La deuxième trace est le support de présentation du sprint du 23/10/2023, elle démontre ma capacité à synthétiser les services et fonctionnalités déjà implémentés en les présentants de manière concise.
