@@ -40,7 +40,7 @@ Etre capable de réaliser des schémas réseaux de ce type démontre ma compéte
 ### Maîtrise de l'apprentissage critique
 <br/>
 
-Pour justifier ma compétence dans l'AC31.01, j'ai présenté trois traces. 
+Pour justifier ma compétence dans l'AC31.03, j'ai présenté trois traces. 
 
 La première trace comprend la photographie de l'installation de switchs et d'un pare-feu,  l'utilisation des câbles par couleur et leur disposition sur les mêmes ports d'un switch à l'autre permet une gestion plus efficace des branchements. 
 La deuxième trace met en avant l'installation de routeurs et d'une borne wifi, suivant la même approche que pour les switchs.
