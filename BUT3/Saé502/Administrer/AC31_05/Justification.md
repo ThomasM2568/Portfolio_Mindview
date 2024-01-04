@@ -6,6 +6,11 @@ L'objectif de cette Saé est de définir les exigences d'un réseau sécurisé d
 Compte tenu des récentes attaques cyberet de la sensibilité des données médicales, il est essentiel de mettre en place une infrastructure informatique robuste et sécurisée. Le projet consistera à créer une architecture
 réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir une connexion VPN avec un autre hôpital, et à documenter l'ensemble du système.
 
+<br/>Pour justifier que je suis compétent pour l'AC31.05, j'ai choisi de présenter :
+- la capture d'écran de Trello.
+- le suport de présentation d'un sprint de la saé.
+-  une vidéo de démonstration d'une fonctionnalité mise en place.
+
 
 #### Trace 1 : Capture d'écran de l'outil de Gestion de Projet (Trello)
 <br/>
