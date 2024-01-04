@@ -55,7 +55,7 @@ Cette robustesse est un paramètre d'autant plus important dans le contexte de c
 ### Maîtrise de l'apprentissage critique
 <br/>
 
-Pour justifier ma compétence dans l'AC31.01, j'ai présenté trois traces. 
+Pour justifier ma compétence dans l'AC31.04, j'ai présenté trois traces. 
 
 Mon approche de la conception de la maquette montre ma capacité à documenter de manière détaillée des fonctionnalités mises en places.
 
