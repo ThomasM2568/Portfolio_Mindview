@@ -7,7 +7,7 @@ Compte tenu des récentes attaques cyberet de la sensibilité des données médi
 réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir une connexion VPN avec un autre hôpital, et à documenter l'ensemble du système.
 
 
-<br/>Pour justifier que je suis compétent pour l'AC31.03, j'ai choisi de présenter :
+<br/>Pour justifier que je suis compétent pour l'AC31.06, j'ai choisi de présenter :
 -  une capture d'écran de l'outil de Gestion de Projet (Trello)
 -  le support de présentation du sprint du 23/10/2023
 -  une partie du rapport explicant l'intérêt de l'utilisation de Figma
