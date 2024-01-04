@@ -9,8 +9,8 @@ réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir
 
 <br/>Pour justifier que je suis compétent pour l'AC31.04, j'ai choisi de présenter :
 -  le support de présentation de la maquette mise en place.
--  la photographie de l'installation de 2 routeurs Cisco 1900 series et d'une borne wifi Linksys WRT.
--  le schéma d'architecture réseau de la Saé.
+-  le rapport de saé.
+-  une vidéo de démonstration d'une fonctionnalité mise en place.
 
 Vous retrouverez les liens de ces documents dans la section liens en bas de cette page.
 
