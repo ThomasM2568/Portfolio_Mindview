@@ -7,7 +7,7 @@ Compte tenu des récentes attaques cyberet de la sensibilité des données médi
 réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir une connexion VPN avec un autre hôpital, et à documenter l'ensemble du système.
 
 
-<br/>Pour justifier que je suis compétent pour l'AC31.03, j'ai choisi de présenter :
+<br/>Pour justifier que je suis compétent pour l'AC31.04, j'ai choisi de présenter :
 -  le support de présentation de la maquette mise en place.
 -  la photographie de l'installation de 2 routeurs Cisco 1900 series et d'une borne wifi Linksys WRT.
 -  le schéma d'architecture réseau de la Saé.
