@@ -7,13 +7,6 @@ Compte tenu des récentes attaques cyberet de la sensibilité des données médi
 réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir une connexion VPN avec un autre hôpital, et à documenter l'ensemble du système.
 
 
-<br/>Pour justifier que je suis compétent pour l'AC31.03, j'ai choisi de présenter :
--  une capture d'écran de l'outil de Gestion de Projet (Trello)
--  le support de présentation du sprint du 23/10/2023
--  la vidéo de démonstration d'une fonctionnalité mise en place
-
-Vous retrouverez les liens de ces documents dans la section liens en bas de cette page.
-
 #### Trace 1 : Capture d'écran de l'outil de Gestion de Projet (Trello)
 <br/>
 
