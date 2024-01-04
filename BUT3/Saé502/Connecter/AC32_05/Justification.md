@@ -7,10 +7,9 @@ Compte tenu des récentes attaques cyberet de la sensibilité des données médi
 réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir une connexion VPN avec un autre hôpital, et à documenter l'ensemble du système.
 
 
-<br/>Pour justifier que je suis compétent pour l'AC31.02, j'ai choisi de présenter :
-- la rédaction du cahier des charges du projet.
-- une partie du rapport axé sur les spécifications techniques du projet.
-- le modèle conceptuel de données
+<br/>Pour justifier que je suis compétent pour l'AC32.05, j'ai choisi de présenter :
+- un message pour partager une documentation technique en Anglais.
+- une documentation en ligne de Cisco en Anglais.
 - l'outil de gestion de projet (Trello).
 
 #### Trace 1 : Partage de documentation technique en Anglais
