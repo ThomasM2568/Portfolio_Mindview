@@ -2,9 +2,13 @@
 ###  AC32.01 : Déployer un système de communication pour l’entreprise
 ### Contexte de la Saé
 <br/>
-L'objectif de cette Saé est de définir les exigences d'un réseau sécurisé d'hôpital en termes de sécurité et de réaliser les tâches de configurations liées à la sécurisation du système informatique. 
-Compte tenu des récentes attaques cyberet de la sensibilité des données médicales, il est essentiel de mettre en place une infrastructure informatique robuste et sécurisée. Le projet consistera à créer une architecture
-réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir une connexion VPN avec un autre hôpital, et à documenter l'ensemble du système.
+Cette SAÉ 5.01, intitulée “Concevoir, réaliser et présenter une solution technique”, a été encadrée par M.BOUILLET et M.CHARTON. Nous avons réalisé ce projet à l’IUT de Montbéliard du lundi 11 décembre au vendredi 22 décembre.
+
+Le projet visait à mettre en place une infrastructure complète système et réseau basée sur des équipements réseaux réels et plusieurs serveurs de machines virtuelles (Proxmox VE et ESXi)
+
+Chaque membre a pu apporter ses connaissances et son expertise pour concevoir une solution intégrée, depuis la phase de conception jusqu'à la réalisation finale.
+
+Il était important de bien organiser le projet afin de travailler en équipe de manière efficace.
 
 
 <br/>Pour justifier que je suis compétent pour l'AC32.01, j'ai choisi de présenter :
