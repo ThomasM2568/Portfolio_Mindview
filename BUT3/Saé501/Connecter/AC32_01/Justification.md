@@ -43,9 +43,11 @@ Ma maîtrise des protocoles de routage OSPF et BGP et ma capacité à les config
 <br/>
 Pour justifier ma compétence dans l'AC32.01, j'ai présenté trois traces. 
 <br/>
+<br/>
 Les trois traces fournies démontrent ma compétence de mise en place et la gestion de systèmes de communication d’entreprise.
 Pour la première trace, j’ai déployé un système de communication pour l’entreprise en organisant et en étiquetant chaque câble de mes switchs avec mes camarades, comme le montre la photo fournie. 
 Pour la deuxième trace, j’ai exécuté une commande pour visualiser les translations d’adresses sur un routeur Cisco, générant un fichier contenant plus de 10 000 lignes de la table NAT. 
 Enfin, pour la troisième trace, j’ai utilisé OSPF pour configurer les tables de routage de mon routeur pour mon VRF MAN et BGP pour mon VRF INET. 
 Ces configurations démontrent ma capacité à gérer des systèmes de communication complexes, mais aussi la bonne configuration de ma NAT. Elles prouvent également ma compréhension des systèmes et ma capacité à utiliser les équipements de réseau comme des routeurs et des switches Cisco. <br/>
+<br/>
 Ces compétences sont essentielles pour assurer une communication réseau efficace et sécurisée au sein de l’entreprise.
