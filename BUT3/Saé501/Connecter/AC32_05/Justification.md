@@ -11,12 +11,11 @@ Chaque membre a pu apporter ses connaissances et son expertise pour concevoir un
 Il était important de bien organiser le projet afin de travailler en équipe de manière efficace.
 
 <br/>Pour justifier que je suis compétent pour l'AC32.05, j'ai choisi de présenter :
-- les comptes utilisateurs dans active directory.
-- les droits d'un compte utilisateur dans active directory.
-- La configuration d'identifiants/mots de passe et d'accès à distance sur un routeur cisco.
-- La connexion sécurisée à un routeur cisco.
+- le trello de la saé.
+- le partage de documentation en Anglais expliquant un problème réseau rencontré
+- le dossier dans le google drive de la saé contenant les jalons rendus.
 
-#### Trace 1 : Compte utilisateur dans Active Directory
+#### Trace 1 : Trello de la saé
 <br/>
 La création de comptes utilisateurs sur un serveur Active Directory est nécessaire pour permettre aux utilisateurs du réseaux d'avoir leur propre compte.
 J'ai été capable de guider Alexandre Berot-Armand dans la configuration de ces comptes, permettant aux collaborateurs d'accéder de manière sécurisée au système d'informations de l'entreprise.
