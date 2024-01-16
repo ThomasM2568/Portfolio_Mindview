@@ -9,7 +9,7 @@ réseau cloisonnée, à sécuriser l'accès aux données médicales, à établir
 
 <br/>Pour justifier que je suis compétent pour l'AC32.01, j'ai choisi de présenter :
 - une photographie de switchs mis en place.
-- le résultat de la commande show ip nat translations sur un routeur Cisco.
+- le résultat de la commande ```show ip nat translations``` sur un routeur Cisco.
 - les tables de routages d'un routeur Cisco.
 
 #### Trace 1 : Photographie des switch
