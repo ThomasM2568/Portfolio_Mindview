@@ -43,3 +43,6 @@ Le rapport de la saé qui contribue à la formation des utilisateurs à travers 
 Le guide d'utilisation des Playbook ansible sur Github que j'ai rédigé permettant d'expliquer aux utilisateurs les variables qu'ils doivent modifier pour répondre à leurs besoins.
 Une partie du support de présenter utilisé pour présenter notre projet à l'oral aux utilisateur, notamment en leur expliquant la partie du coeur du réseau.J'ai été capable de réaliser l'ensemble de ces éléments ce qui prouve ma capacité à former des utilisateurs.
 <br/>
+
+#### Lien du guide ansible pour github : 
+[Readme Ansible](https://github.com/ThomasM2568/Sae5.01-Concevoir-realiser-et-presenter-une-solution-technique-/blob/main/Scripts/Ansible/readme.md)
