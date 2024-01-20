@@ -11,7 +11,7 @@ Il était important de bien organiser le projet afin de travailler en équipe de
 
 
 <br/>Pour justifier que je suis compétent pour l'AC31.03, j'ai choisi de présenter :
-- une photographie des switch
+- une photographie des <em>switch</em>
 - une capture d'écran du fichier Packet Tracer du coeur de réseau
 - une capture d'écran du ficher Packet Tracer du réseau interne
 
