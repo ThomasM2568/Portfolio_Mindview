@@ -17,7 +17,7 @@ Il était important de bien organiser le projet afin de travailler en équipe de
 
 #### Trace 1 : Photographie des switch 
 <br/>
-Je suis capable de mettre en place une maquette comportant des équipements réseaux, ici des switch Cisco, en les identifiants à l'aide de Post-It pour améliorer la lisibilité de la maquette.
+Je suis capable de mettre en place une maquette comportant des équipements réseaux, ici des switch Cisco, en les identifiants à l'aide de <em>Post-It</em> pour améliorer la lisibilité de la maquette.
 J'ai été capable de réaliser les branchements physiques conformément aux schémas Packet Tracer et de vérifier leur bon fonctionnement.
 <br/>
 
